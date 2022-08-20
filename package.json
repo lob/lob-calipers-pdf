@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/calipersjs/calipers-pdf.git"
+    "url": "https://github.com/lob/lob-calipers-pdf"
   },
   "keywords": [
     "image",
@@ -20,9 +20,9 @@
   "author": "Marcus Gartner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calipersjs/calipers/issues"
+    "url": "https://github.com/lob/lob-calipers-pdf/issues"
   },
-  "homepage": "https://github.com/calipersjs/calipers-pdf",
+  "homepage": "https://github.com/lob/lob-calipers-pdf",
   "devDependencies": {
     "chai": "^4.3.2",
     "chai-as-promised": "^7.1.1",
@@ -34,7 +34,6 @@
     "mocha-lcov-reporter": "^1.3.0"
   },
   "dependencies": {
-    "bluebird": "^3.7.2",
     "poppler-simple": "^0.11.1"
   },
   "peerDependencies": {
